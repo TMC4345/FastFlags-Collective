@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collection Archive</h1>
+<h2 align="center">Previous repo maintainers took down the repo</h2>
 
 ### FPS Unlocker in Roblox Menu Settings
 ```json
@@ -507,7 +508,3 @@ High
 ```json
 { "FFlagDebugRomarkMockingAudioDevices": "True" }
 ```
-
-###### creds to bloxstrap & rgc
-
-<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>

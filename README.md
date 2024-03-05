@@ -1,36 +1,4 @@
-> [!IMPORTANT]
-> its finally over 🙏🏽
-
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
-
-<h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
-
-<h6 align="center">https://discord.gg/fastflags</h6>
-
-##### [3/1/2024]
-* **106 Currently Listed**
-
-## How to Use:
-1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
-2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
-3. **Paste in the JSON.**
-4. **Save and you're good to go!**
-<img src="/assets/tutorial.gif" width="750"/>
-
- # List Navigation
-* **[Rendering](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#rendering)**
-* **[Graphical](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#graphical-settings)**
-* **[UI](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#user-interface)**
-* **[Textures](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
-
-<img src="assets/images/bitdancer.png" width="888"/>
-
-### 
-
-<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 ### FPS Unlocker in Roblox Menu Settings
 ```json
@@ -539,25 +507,6 @@ High
 ```json
 { "FFlagDebugRomarkMockingAudioDevices": "True" }
 ```
-
-<h1 align="center">Links</h1>
-
-### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
-### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
-### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
-### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
-### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
-### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [Fake Roblox Player Internal Patcher](https://github.com/FastFlags/FastFlags-Collective/releases/tag/internal) *[Download Link]*
-
-<h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
-
-# List Information
-* Creation Date: 9:46 PM 08/25/2023 
-* Github Publish Date: 12/26/2023
-* Maintained by [dan](https://discord.com/users/457151128665194527), [variable](https://discord.com/users/848525666622373890), [popbob](https://discord.com/users/702054592262701127) & [kit](https://discord.com/users/761909750006022195)
-
-[.](https://open.spotify.com/track/0jhYMcAqY9LkMCAYNXKtNK)
 
 ###### creds to bloxstrap & rgc
 
